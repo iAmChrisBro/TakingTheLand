@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Arrow
+  - Ground
+  - Tomahawk
+  - Spear
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Bow
+  - Arrow
+  - UIFore
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3122407111
+    locked: 0
+  - name: Bow
+    uniqueID: 1457441205
+    locked: 0
+  - name: Arrow
+    uniqueID: 257736937
+    locked: 0
+  - name: UIBack
+    uniqueID: 2996123749
+    locked: 0
+  - name: UIFore
+    uniqueID: 1132408915
+    locked: 0
